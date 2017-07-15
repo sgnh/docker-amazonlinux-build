@@ -1,2 +1,2 @@
-# docker-amazonlinux-lambda-build
-Docker image for building lambda node applications
+# docker-amazonlinux-build
+Docker image for building node applications
